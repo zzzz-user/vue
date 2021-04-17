@@ -1,10 +1,14 @@
 # Vue.js
 
-# create
-```vue create .```
+## create
+```
+vue create .
+```
 
-# elememt
-```vue add element```
+## elememt
+```
+vue add element
+```
 
 
 ## Project setup
